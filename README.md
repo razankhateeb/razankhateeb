@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @razankhateeb
+- 📚 I’m a computer Science graduate
+- 🔭 I’m currently working with two of my colleagues on a extracurricular app named MYPSUT as my graduation project
+- 🌱 I’m currently learning UI/UX and React JS
+- 👨‍💻 I’m looking to find my first position as an Frontend developer
+- 💬 Ask me about topics on art, books, and TV series
+- 📫 How to reach me Email - razan.khateeb2@gmail.com | LinkedIn - https://www.linkedin.com/in/razan-khateeb/
